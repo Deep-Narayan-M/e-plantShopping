@@ -26,6 +26,7 @@ const styleA = {
   color: "white",
   fontSize: "30px",
   textDecoration: "none",
+  
 };
 
 // Define plantsArray outside the component to prevent re-creation on each render
